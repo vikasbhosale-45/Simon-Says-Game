@@ -6,8 +6,6 @@ Welcome to the Simon Says Game! This project is a simple implementation of the c
 <img src="Screenshot.png" alt="Simon Says Game" width="400" height="400">
 
 A web-based implementation of the classic Simon Says memory game.
-## Play the Game 💜💛💙❤️
-You can play the game [here](https://siniekoo19.github.io/Simon-Says-Game/).
 
 ## How to Play 🎮
   1. **Start the Game:**
@@ -39,13 +37,13 @@ The project consists of the following files:
   - **Responsive Design:** The game is designed to be responsive. On smaller screens (less than 600px), a "Start" button will be displayed. Once the game starts, the button will disappear, and the level information will be displayed. If the user inputs a wrong sequence, the game over message will be displayed, and the user can restart the game by pressing the "Start" button again.
 
 ## 🚀 About Me
-👋 Hi there! I'm Sinchana Chatterjee, an enthusiastic and determined B.Tech student with a fervent aspiration to excel as a Web Developer.
+👋 Hi there! I'm Vikas Bhosale, an enthusiastic and determined BCS student with a fervent aspiration to excel as a Web Developer.
 
 ## Authors
-[@siniekoo19](https://github.com/vikasbhosale-45)
+[@vikasbhosale-45](https://github.com/vikasbhosale-45)
 
 ## Acknowledgments
-- Thanks to [githubs pages](https://siniekoo19.github.io/Simon-Says-Game/) for providing a platform to deploy my website.
+- Thanks to Github for providing a platform to deploy my website.
 - Thanks to the open-source community for their invaluable contributions to the tools and libraries used in this project.
 
 ## Feedback
